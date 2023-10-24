@@ -1,0 +1,58 @@
+{
+    "plantas": [
+        {
+            "Planta": "Apo",
+            "Sociedad": "TM01",
+            "Transportista": {
+                "0": {
+                    "Unnamed: 0": 0,
+                    "Transportista": "168270",
+                    "Total General": 13,
+                    "Total Anomalias": 0,
+                    "Porcentaje": 0,
+                    "Valor": 0
+                },
+                "1": {
+                    "Unnamed: 0": 1,
+                    "Transportista": "154788",
+                    "Total General": 5,
+                    "Total Anomalias": 0,
+                    "Porcentaje": 0,
+                    "Valor": 0
+                },
+                "2": {
+                    "Unnamed: 0": 2,
+                    "Transportista": "100938",
+                    "Total General": 6,
+                    "Total Anomalias": 0,
+                    "Porcentaje": 0,
+                    "Valor": 0
+                },
+                "3": {
+                    "Unnamed: 0": 3,
+                    "Transportista": "171840",
+                    "Total General": 4,
+                    "Total Anomalias": 0,
+                    "Porcentaje": 0,
+                    "Valor": 0
+                },
+                "4": {
+                    "Unnamed: 0": 4,
+                    "Transportista": "128412",
+                    "Total General": 12,
+                    "Total Anomalias": 0,
+                    "Porcentaje": 0,
+                    "Valor": 0
+                },
+                "5": {
+                    "Unnamed: 0": 5,
+                    "Transportista": "ET00011150",
+                    "Total General": 2,
+                    "Total Anomalias": 0,
+                    "Porcentaje": 0,
+                    "Valor": 0
+                }
+            }
+        }
+    ]
+}
